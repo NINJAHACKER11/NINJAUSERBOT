@@ -1,0 +1,48 @@
+
+
+_get_repolink () {
+    local regex
+    regex='(https?)://github.com/.+/.+'
+    if [[ $NINJA_REPO == "NINJABOT" ]]
+    then
+        echo "aHR0cHM6Ly9naXRodWIuY29tL1RoZS1MZWdlbmRCb3QvTEVHRU5EVVNFUkJPVC9hcmNoaXZlL0xlZ2VuZEJvdC56aXA=" | base64 -d
+    elif [[ $NINJA_REPO == "NINJABOT" ]]
+    then
+        echo "aHR0cHM6Ly9naXRodWIuY29tL1RoZS1MZWdlbmRCb3QvTEVHRU5EVVNFUkJPVC9hcmNoaXZlL0xlZ2VuZEJvdC56aXA=" | base64 -d
+    elif [[ $NINJA_REPO =~ $regex ]]
+    then
+        if [[ $NINJA_REPO_BRANCH ]]
+        then
+            echo "${NINJA_REPO}/archive/${NINJA_REPO_BRANCH}.zip"
+        else
+            echo "${NINJA_REPO}/archive/master.zip"
+        fi
+    else
+        echo "aHR0cHM6Ly9naXRodWIuY29tL1RoZS1MZWdlbmRCb3QvTEVHRU5EVVNFUkJPVC9hcmNoaXZlL0xlZ2VuZEJvdC56aXA=" | base64 -d
+    fi
+}
+
+
+_setting_bot () {
+    local zippath
+    zippath="NINJABOT.zip"
+    echo "  Downloading NINJABOT V3.O Source Code..."
+    wget -q $(_get_repolink) -O "$zippath"
+    echo "  Unpacking Data ..."
+    NINJAPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
+    unzip -qq "$zippath"
+    echo "Done"
+    echo "  NINJABOT V3.O Cleaning.."
+    rm -rf "$zippath"
+    sleep 5
+    cd $NINJAPATH
+    echo "    ⚜️Starting NINJAUSERBOT⚜️     "
+    echo "
+    🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳
+    "
+
+    python3 ../setup/updater.py ../requirements.txt requirements.txt
+    python3 -m userbot
+}
+
+_setting_bot
