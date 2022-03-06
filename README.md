@@ -9,7 +9,7 @@
 </h6>
 
 <h6 align="center">
-  <b>⚡ redits Ton @LegebndBot_XD⚡</b>
+  <b>⚡ Credits To LegendBot_XD </b>
 </h6>
 
 <p align="center">
