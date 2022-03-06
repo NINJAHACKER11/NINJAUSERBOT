@@ -1,6 +1,6 @@
 {
-  "name": "NINJAUSERBOT",
-  "description": "Tнє ßєѕτ υѕєяϐοτ мα∂є ϐγ NINJABOY. Made with Love And By Python Language With Hardwork... ❤ ",
+  "name": "ռɨռʝǟʊֆɛʀɮօȶ",
+  "description": "Tнє ßєѕτ υѕєяϐοτ мα∂є ϐγ ռɨռʝɮօʏ. Made with Love And By Python Language With Hardwork... ❤ ",
   "logo": "https://te.legra.ph/file/1fef0a4acf69bfb85c511.jpg",
   "keywords": [
     "telegram",
@@ -12,7 +12,7 @@
   ],
   "repository": "https://github.com/NINJAHACKER11/NINJAUSERBOT/",
   "website": "https://github.com/NINJAHACKER11/NINJAUSERBOT/",
-  "success_url": "https://t.me/officialninjauserbot",
+  "success_url": "https://t.me/Ninjauserbot_op",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -20,12 +20,12 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is NINJA User",
-      "value": "NINJABOY",
+      "value": "ռɨռʝɮօʏ",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive Or .ninja  Command.",
-      "value": "NINJAUSERBOT is Online",
+      "value": "ռɨռʝǟʊֆɛʀɮօȶ is Online",
       "required": false
     },
     "ABUSE": {
@@ -50,7 +50,7 @@
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
-      "value": "@officialninjauserbot",
+      "value": "@Ninjauserbot_op",
       "required": false
     },
     "YOUR_CHANNEL": {
