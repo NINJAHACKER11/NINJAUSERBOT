@@ -8,6 +8,10 @@
   <b>⚡ NINJABOT Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
 </h6>
 
+<h6 align="center">
+  <b>⚡ redits Ton @LegebndBot_XD⚡</b>
+</h6>
+
 <p align="center">
 <a href="https://github.com/NINJAHACKER11/NINJAUSERBOT" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/NINJHACKER11/NINJAUSERBOT?style=flat&logo=github&color=success" /> </a>
 <a href="https://github.com/NINJAHACKER11/NINJAUSERBOT/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/NINJHACKER11/NINJAUSERBOT?style=flat&logo=github" /> </a>
