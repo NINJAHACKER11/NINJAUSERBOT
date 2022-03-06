@@ -5,10 +5,10 @@ _get_repolink () {
     regex='(https?)://github.com/.+/.+'
     if [[ $NINJA_REPO == "NINJABOT" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL05JTkpBSEFDS0VSMTEvTklOSkFVU0VSQk9UL2FyY2hpdmUvTmluamFCb3QuemlwCg==" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL05JTkpBSEFDS0VSMTEvTklOSkFVU0VSQk9UL2FyY2hpdmUvbWFpbi56aXA=" | base64 -d
     elif [[ $NINJA_REPO == "NINJABOT" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL05JTkpBSEFDS0VSMTEvTklOSkFVU0VSQk9UL2FyY2hpdmUvTmluamFCb3QuemlwCg==" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL05JTkpBSEFDS0VSMTEvTklOSkFVU0VSQk9UL2FyY2hpdmUvbWFpbi56aXA=" | base64 -d
     elif [[ $NINJA_REPO =~ $regex ]]
     then
         if [[ $NINJA_REPO_BRANCH ]]
@@ -18,7 +18,7 @@ _get_repolink () {
             echo "${NINJA_REPO}/archive/master.zip"
         fi
     else
-        echo "aHR0cHM6Ly9naXRodWIuY29tL05JTkpBSEFDS0VSMTEvTklOSkFVU0VSQk9UL2FyY2hpdmUvTmluamFCb3QuemlwCg==" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL05JTkpBSEFDS0VSMTEvTklOSkFVU0VSQk9UL2FyY2hpdmUvbWFpbi56aXA=" | base64 -d
     fi
 }
 
