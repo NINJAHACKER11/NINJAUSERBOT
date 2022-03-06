@@ -1,11 +1,11 @@
 <h1 align="center">
-<b> 『NINJAUSERBOT』🇮🇳 </b>
+<b> 『ռɨռʝǟʊֆɛʀɮօȶ』🇮🇳 </b>
 </h1>
 
-[![NINJABOT](https://te.legra.ph/file/1fef0a4acf69bfb85c511.jpg)](https://github.com/NINJAHACKER11/NINJAUSERBOT)
+[![ռɨռʝɮօȶ](https://te.legra.ph/file/1fef0a4acf69bfb85c511.jpg)](https://github.com/NINJAHACKER11/NINJAUSERBOT)
 
 <h6 align="center">
-  <b>⚡ NINJABOT Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
+  <b>⚡ ռɨռʝɮօȶ Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
 </h6>
 
 <h6 align="center">
@@ -39,7 +39,7 @@
 
 ------
 ## Telegram 🏪
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/officialninjauserbot)
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/Ninjauserbot_op)
 - [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/officialninjabotsupport)
 
 
@@ -149,7 +149,7 @@
 
 NINJAHACKER11
 
-Poject [NINJABOT](https://github.com/NINJAHACKER11/NINJAUSERBOT) is free software: you can redistribute it and/or modify
+Poject [ռɨռʝɮօȶ](https://github.com/NINJAHACKER11/NINJAUSERBOT) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
