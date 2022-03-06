@@ -33,6 +33,7 @@
 
 ------
 ## Status Of Bot 
+
 <p align="left">
     <a href="https://github.com/NINJAHACKER11/NINJAUSERBOT/network/members"><img src="https://img.shields.io/github/forks/NINJHACKER11/NINJAUSERBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/NINJAHACKER11/NINJAUSERBOT/stargazers"><img src="https://img.shields.io/github/stars/NINJHACKER11/NINJAUSERBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/NINJAHACKER11/NINJAUSERBOT"></a><p align="left"><a href="https://github.com/NINJAHACKER11/NINJAUSERBOT?"></a>
 
@@ -41,10 +42,6 @@
 - [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/officialninjauserbot)
 - [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/officialninjabotsupport)
 
-------
-## YouTube 📺
-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvp8PY25PTRhFDZjLv3sVfg?style=social)](https://youtube.com/channel/UCvp8PY25PTRhFDZjLv3sVfg)
-- [![YouTube Video Views](https://img.shields.io/youtube/views/9dQgdUJfk_k?label=Tutorial+•+Heroku+•&style=social)](https://youtu.be/9dQgdUJfk_k)
 
 ------------
 <h3> Dєρℓογ το нєяοκυ </h3>
