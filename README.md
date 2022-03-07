@@ -9,7 +9,7 @@
 </h6>
 
 <h6 align="center">
-  <b>⚡ Credits To LegendBot_XD </b>
+  <b>⚡ Credits To NINJA_X_D </b>
 </h6>
 
 <p align="center">
